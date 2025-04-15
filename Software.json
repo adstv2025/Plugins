@@ -8,49 +8,49 @@
           "id": "skin.AdsTV",
           "type": "skin",
           "version": "1.3.6",
-          "github": "https://github.com/adstv2025/Software/raw/main/skin.AdsTV.zip.zip"
+          "github": "https://github.com/adstv2025/Plugins/raw/main/skin.AdsTV.zip.zip"
         },
         {
           "id": "script.module.systemsetup",
           "type": "library",
           "version": "1.3.6",
-          "github": "https://github.com/adstv2025/Software/raw/main/script.module.systemsetup.zip.zip"
+          "github": "https://github.com/adstv2025/Plugins/raw/main/script.module.systemsetup.zip.zip"
         },
         {
           "id": "plugin.program.setup",
           "type": "program",
           "version": "1.3.6",
-          "github": "https://github.com/adstv2025/Software/raw/main/plugin.program.setup.zip.zip"
+          "github": "https://github.com/adstv2025/Plugins/raw/main/plugin.program.setup.zip.zip"
         },
         {
           "id": "plugin.program.refresh",
           "type": "program",
           "version": "1.3.6",
-          "github": "https://github.com/adstv2025/Software/raw/main/plugin.program.refresh.zip.zip"
+          "github": "https://github.com/adstv2025/Plugins/raw/main/plugin.program.refresh.zip.zip"
         },
         {
           "id": "service.autoplay",
           "type": "service",
           "version": "1.3.6",
-          "github": "https://github.com/adstv2025/Software/raw/main/service.autoplay.zip.zip"
+          "github": "https://github.com/adstv2025/Plugins/raw/main/service.autoplay.zip.zip"
         },
         {
           "id": "service.autoupdate",
           "type": "service",
           "version": "1.3.6",
-          "github": "https://github.com/adstv2025/Software/raw/main/service.autoupdate.zip.zip"
+          "github": "https://github.com/adstv2025/Plugins/raw/main/service.autoupdate.zip.zip"
         },
         {
           "id": "service.watchdog",
           "type": "service",
           "version": "1.3.6",
-          "github": "https://github.com/adstv2025/Software/raw/main/service.watchdog.zip.zip"
+          "github": "https://github.com/adstv2025/Plugins/raw/main/service.watchdog.zip.zip"
         },
         {
           "id": "service.softwarecontroller",
           "type": "service",
           "version": "1.3.6",
-          "github": "https://github.com/adstv2025/Software/raw/main/service.softwarecontroller.zip.zip"
+          "github": "https://github.com/adstv2025/Plugins/raw/main/service.softwarecontroller.zip.zip"
         }
       ],
       "AdsTV": {
